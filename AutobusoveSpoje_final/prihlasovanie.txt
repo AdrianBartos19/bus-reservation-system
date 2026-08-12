@@ -1,0 +1,6 @@
+Ucty:
+
+Meno    Heslo
+admin   admin  #nema rezervacie
+user    user
+Adrian  Adrian  
